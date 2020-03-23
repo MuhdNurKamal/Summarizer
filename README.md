@@ -10,3 +10,6 @@ Install dependecied: `pip install -r requirements.txt`
 
 ## Execute
 Run `python app.py < my_text.txt`
+
+## Upcoming features
+UI
